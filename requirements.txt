@@ -1,6 +1,6 @@
 agora-realtime-ai-api==1.0.7
 aiohappyeyeballs==2.4.0
-aiohttp==3.10.6
+aiohttp==3.11.0b0
 aiohttp[speedups]
 aiosignal==1.3.1
 annotated-types==0.7.0
@@ -13,7 +13,7 @@ click==8.1.7
 colorlog>=6.0.0
 distro==1.9.0
 frozenlist==1.4.1
-h11==0.14.0
+h11==0.16.0
 httpcore==1.0.5
 httpx==0.27.0
 idna==3.10
